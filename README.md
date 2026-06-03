@@ -79,7 +79,7 @@ This demonstrates a substantial performance improvement through segmentation.
 
 ## 📂 Repository Contents
 
-This repository includes:
+This repository includes after segmentation results:
 
 * Full preprocessing pipeline
 * Dataset preparation scripts
